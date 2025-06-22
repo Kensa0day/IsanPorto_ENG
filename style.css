@@ -146,6 +146,15 @@ a:hover {
   transform: none;
 }
 
+.project-category {
+  font-size: 0.9rem;
+  color: #666;
+  
+  margin-bottom: 26px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
 /* SECTIONS */
 
 section {
